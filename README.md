@@ -52,6 +52,8 @@ This is a Streamlit-based web application that extracts the transcript of a YouT
  
       ![Screenshot (2)](https://github.com/user-attachments/assets/47d592ae-e29b-43b1-8abf-db32d3686b3c)
 
+      ![Screenshot (3)](https://github.com/user-attachments/assets/d77208bc-50ff-4d5e-827f-d81942c214fe)
+
       
 
 ## Requirements
