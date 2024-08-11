@@ -35,6 +35,7 @@ This is a Streamlit-based web application that extracts the transcript of a YouT
     ```bash
     streamlit run app.py
     ```
+    ![Screenshot (1)](https://github.com/user-attachments/assets/42d119bb-336a-41e4-b58d-2c59cd67a1ff)
 
 2. **Open the app in your web browser.**
     - Enter a YouTube URL and click the "Get Details" button to generate the summary.
