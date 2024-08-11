@@ -49,6 +49,10 @@ This is a Streamlit-based web application that extracts the transcript of a YouT
     - Displays an input box for the YouTube URL.
     - Displays the video thumbnail.
     - Generates and displays the video summary when the "Get Details" button is clicked.
+ 
+      ![Screenshot (2)](https://github.com/user-attachments/assets/47d592ae-e29b-43b1-8abf-db32d3686b3c)
+
+      
 
 ## Requirements
 
